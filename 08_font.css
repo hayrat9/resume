@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'roboto', serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #0F141E;
+}
+
+ol {
+    font-style: italic;
+}
+
+thead {
+    font-weight: bold;
+}
